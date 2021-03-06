@@ -1,4 +1,4 @@
-# Companion code for the Medium article
+# Companion code for the Medium article [upcoming link]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
